@@ -15,7 +15,9 @@ a {
 }
 .section {
   display: flex;
+  max-width: 1100px;
   justify-content: center;
+  margin-inline: auto;
   flex-wrap: wrap;
   margin-top: 80px;
 }
